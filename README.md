@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/raheekang/raheekang/issues/1#issue-3155745180" alt="welcome gif" />
+  <img src="https://github.com/user-attachments/assets/660ef419-8672-438c-9573-4623aefd5863" alt="welcome gif" />
 </div>
 
 
