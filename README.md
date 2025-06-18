@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="[https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51](https://github.com/raheekang/raheekang/issues/1#issue-3155745180)" />
+  <img src="https://github.com/raheekang/raheekang/assets/123456789/abcde12345fgh67890" alt="welcome gif" />
 </div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
